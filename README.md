@@ -1,6 +1,6 @@
 # Power board
 
-![Power board](https://github.com/Robopoly/Power-Board/master/power.png)
+![Power board](https://raw.github.com/Robopoly/Power-Board/master/power.png)
 
 The Power board is intended to work with the EPFL Robotics club robotics platform [PRismino](https://github.com/Robopoly/PRismino) and the [Robopoly shield](https://github.com/Robopoly/Robopoly-Shield).
 
