@@ -31,10 +31,13 @@ The QFN regulator is hard to solder manually, but it can be done with the right 
 
 ## Component list
 
+The regulated power rack can be SMD or through-hole type. With the SMD variant it is possible to plug devices from under the board.
+
 | Part                                             | Reference   | Quantity |
 | ------------------------------------------------ | ----------- | -------- |
 | PCB                                              |             | 1        |
-| Power rack 2X10 female pins                      | 4UCON-07870 | 1        |
+| Power rack 2X10 female pins (through-hole)       | 4UCON-07870 | 1        |
+| Power rack 2X10 female pins (SMD)                | 4UCON-17654 | 0        |
 | On/off slide switch                              |             | 1        |
 | Step down regulator                              | TPS62133    | 1        |
 | 3.3nF 0805 capacitor                             |             | 1        |
