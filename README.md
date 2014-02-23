@@ -60,11 +60,11 @@ All additional files needed to generate the board are in the [Robopoly Eagle CAD
 
 ## Version log
 
-### 2.0 (2014-02-07)
+### 2.0 (2014-02-23)
 
 * Rounded corners.
 * Moved the output connector a more inside the PCB.
-* Changed the external LED and parallel power switch footprints.
+* Changed the regulator, external LED and parallel power switch footprints.
 * Updated CAD and Gerber files.
 * Added component list.
 
