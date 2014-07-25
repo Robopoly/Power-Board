@@ -18,6 +18,8 @@ The regulator is the [TPS62133](http://www.ti.com/product/tps62133) step-down co
 
 This board has been tested under high load and has proven itself to be reliable, it has built-in short-circuit detection and thermal shutdown. Here's a [video of the thermal shutdown test under high load](http://www.youtube.com/watch?v=QFXuxgbKgFs).
 
+**NOTE**: in almost all cases this board works as intended, but it has happened that the regulator doesn't work or output the right voltage, we haven't been able to diagnose the problem, but it might be because of bad electical connections underneath the regulator. Always check the output voltage and make sure you don't invert VCC and GND power signals as it may damage the regulator.
+
 ## Electrical schematic and PCB
 
 [![Electrical schematic](schematic.png)](schematic.pdf)
